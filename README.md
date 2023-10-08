@@ -244,4 +244,4 @@ In the main function:
 
 5.![exp12_4](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/61d1d3fd-62ea-4d8c-bdc6-a771080e848a)
 
-6.![exp12_5](https://github.com/Purvansha022609
+6.![exp12_5](https://github.com/Purvansha022609/Constructors-and-Destructors/assets/139473344/a72c6fd6-8166-49bd-bd21-350a1e75f335)
